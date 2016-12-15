@@ -1,0 +1,31 @@
+{
+  "name": "mern-stack-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimoLoveGym/MERN-Stack-Practice.git"
+  },
+  "author": "Joey Xia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsimoLoveGym/MERN-Stack-Practice/issues"
+  },
+  "homepage": "https://github.com/AsimoLoveGym/MERN-Stack-Practice#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "mongodb": "^2.2.16",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
